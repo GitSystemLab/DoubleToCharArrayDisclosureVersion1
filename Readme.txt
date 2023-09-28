@@ -3,8 +3,7 @@ Thank you for watching this text so much!!
 //Java and C header files work independently.
 
 // Copyright and Ownership attributes to GitSystemLab.
-// The code of the function has just One loop...
-// C header file doesn't use Java files.
+// The code of the function has just One loop.
 
 char* DoubleToCharArray(double Value0,int DecimalOrderOrderNumber0,int SetWholeDigitOrderOrderNumber0,
 	int SetDecimalOrderOrderNumber0,int SetWholeDigitOrderOrderNumberMarker0,int SetDecimalOrderOrderNumberMarker0,
