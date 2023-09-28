@@ -1,5 +1,7 @@
 Thank you for watching this text so much!!
 
+//Java and C header files work independently.
+
 // Copyright and Ownership attributes to GitSystemLab.
 // The code of the function has just One loop...
 // C header file doesn't use Java files.
