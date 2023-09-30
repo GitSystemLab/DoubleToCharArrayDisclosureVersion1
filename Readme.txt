@@ -4,6 +4,8 @@ Thank you for watching this text so much!!
 
 // Copyright and Ownership attributes to GitSystemLab.
 // The code of the function has just One loop.
+// The url of faster version of this function is 
+https://github.com/GitSystemLab/DoubleToCharArrayDisclosureVersion2_Faster.
 
 char* DoubleToCharArray(double Value0,int DecimalOrderOrderNumber0,int SetWholeDigitOrderOrderNumber0,
 	int SetDecimalOrderOrderNumber0,int SetWholeDigitOrderOrderNumberMarker0,int SetDecimalOrderOrderNumberMarker0,
